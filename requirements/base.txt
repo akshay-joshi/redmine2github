@@ -1,0 +1,5 @@
+pygithub3>=0.5
+python-redmine==0.8.2
+Jinja2>=2.7.3
+requests>=2.20.0
+pycodestyle>=2.7.0

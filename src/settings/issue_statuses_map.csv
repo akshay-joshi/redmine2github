@@ -1,0 +1,8 @@
+status_id, status_name
+1, New
+2, In Progress
+3, Resolved
+6, Rejected
+7, In Testing
+8, Waiting for upstream
+9, Cannot Reproduce

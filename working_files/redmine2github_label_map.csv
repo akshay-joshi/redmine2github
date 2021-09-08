@@ -1,0 +1,13 @@
+redmine_type, redmine_name, github_label_name, github_label_color
+tracker, Bug, Bug, B60205
+tracker, Feature, Feature, 1D76DB
+tracker, Support, Support, FBCA04
+tracker, Housekeeping, Housekeeping, E99695
+status, New, New, 93A689
+status, In Progress, In Progress, CC6600
+status, Resolved, Resolved, 3C5F2A
+staus, Rejected, Rejected, B48C06
+status, In Testing, In Testing, 996600
+status, Waiting for upstream, Waiting for upstream, CC6600
+status, Cannot Reproduce, Cannot Reproduce, 4995AA
+

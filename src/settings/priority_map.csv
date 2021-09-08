@@ -1,0 +1,6 @@
+priority_id, priority_name
+3, Low
+4, Normal
+5, High
+6, Urgent
+7, Immediate
